@@ -6,7 +6,7 @@
 /*
 Plugin Name: Credits on Site
 Plugin URI: 
-Description: Is just a plugin, when activated you will randomly see a <span>Credits of the site<span/> in the your footer.
+Description: Is just a plugin, when activated you will see a <span>Credits of the site<span/> in the your footer.
 Author: Diego Curumim
 Version: 0.5
 */
