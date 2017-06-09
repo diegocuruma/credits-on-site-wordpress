@@ -9,7 +9,7 @@ Credits on Site
 
 == Description ==
 
-Is just a plugin, When activated you will randomly see a <cite>Credits</cite> in the your footer.
+Is just a plugin, When activated you will see the <cite>Credits</cite> in the your footer.
 
 
 == Installation ==

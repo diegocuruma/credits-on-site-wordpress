@@ -2,7 +2,7 @@
 Is just a plugin.
 
 ## Description
-Is just a plugin, when activated you will randomly see a <span>Credits of the site<span/> in the your footer.
+Is just a plugin, When activated you will see the <cite>Credits</cite> in the your footer.
 
 ## Installation
 
